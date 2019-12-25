@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "bamboo-block-justfatlard",
+  "version": "${version}",
+  "name": "Bamboo",
+  "description": "Because bamboo",
+  "authors": [
+    "justfatlard"
+  ],
+  "contact": {
+    "sources": ""
+  },
+  "license": "MIT",
+  "icon": "assets/bamboo-block-justfatlard/textures/block/bamboo_block_side.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "justfatlard.bamboo_block.BambooBlock"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
