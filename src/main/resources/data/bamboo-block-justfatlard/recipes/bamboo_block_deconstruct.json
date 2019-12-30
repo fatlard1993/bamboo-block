@@ -1,12 +1,5 @@
 {
     "type": "crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "bamboo-block-justfatlard:bamboo_block"
-        }
-    ],
-    "result": {
-        "item": "minecraft:bamboo",
-        "count": 9
-    }
+    "ingredients": [{ "item": "bamboo-block-justfatlard:bamboo_block" }],
+    "result": { "item": "minecraft:bamboo", "count": 9 }
 }
