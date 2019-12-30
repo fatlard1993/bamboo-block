@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class BambooBlock implements ModInitializer {
-    public static final Block BAMBOO_BLOCK = new Block(FabricBlockSettings.of(Material.BAMBOO).sounds(BlockSoundGroup.BAMBOO).strength(0.5F, 2.5F).build());
+    public static final Block BAMBOO_BLOCK = new Block(FabricBlockSettings.of(Material.BAMBOO).sounds(BlockSoundGroup.BAMBOO).strength(0.6F, 16F).build());
 
     @Override
     public void onInitialize(){
