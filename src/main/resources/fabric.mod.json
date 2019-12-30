@@ -3,7 +3,7 @@
   "id": "bamboo-block-justfatlard",
   "version": "${version}",
   "name": "Bamboo",
-  "description": "Because bamboo",
+  "description": "Adds a bamboo block",
   "authors": [
     "justfatlard"
   ],
@@ -18,7 +18,6 @@
       "justfatlard.bamboo_block.BambooBlock"
     ]
   },
-  "mixins": [],
   "depends": {
     "fabricloader": ">=0.7.2",
     "fabric": "*",
