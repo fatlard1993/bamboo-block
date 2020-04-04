@@ -1,10 +1,10 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "BBB",
-        "BBB",
-        "BBB"
-    ],
-    "key": { "B": { "item": "minecraft:bamboo" } },
-    "result": { "item": "bamboo-block-justfatlard:bamboo_block" }
+	"type": "crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BBB",
+		"BBB"
+	],
+	"key": { "B": { "item": "minecraft:bamboo" } },
+	"result": { "item": "bamboo-block-justfatlard:bamboo_block" }
 }
