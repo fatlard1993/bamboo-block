@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "id": "bamboo-block-justfatlard",
-  "version": "${version}",
-  "name": "Bamboo",
+  "version": "0.2.0",
+  "name": "Bamboo Block",
   "description": "Adds a bamboo block",
   "authors": [
     "justfatlard"
