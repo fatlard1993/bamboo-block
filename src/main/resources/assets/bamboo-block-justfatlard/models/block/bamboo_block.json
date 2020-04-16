@@ -33,8 +33,8 @@
 		}
 	},
 	"textures": {
-		"bottom": "bamboo-block-justfatlard:block/bamboo_block_bottom",
-		"top": "bamboo-block-justfatlard:block/bamboo_block_top",
+		"bottom": "bamboo-block-justfatlard:block/bamboo_block_end",
+		"top": "bamboo-block-justfatlard:block/bamboo_block_end",
 		"side": "bamboo-block-justfatlard:block/bamboo_block_side"
 	}
 }
