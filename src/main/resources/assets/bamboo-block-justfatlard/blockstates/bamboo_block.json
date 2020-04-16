@@ -1,3 +1,7 @@
 {
-	"variants": { "": { "model": "bamboo-block-justfatlard:block/bamboo_block" } }
+	"variants": {
+		"axis=y":  { "model": "bamboo-block-justfatlard:block/bamboo_block" },
+		"axis=z":   { "model": "bamboo-block-justfatlard:block/bamboo_block", "x": 90 },
+		"axis=x":   { "model": "bamboo-block-justfatlard:block/bamboo_block", "x": 90, "y": 90 }
+	}
 }
