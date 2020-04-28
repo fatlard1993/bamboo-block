@@ -6,4 +6,4 @@ This mod adds one block, a bamboo block. Use it to store your bamboo nice and co
 
 * [Hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness): 0.6
 * [Blast resistance](https://minecraft.gamepedia.com/Explosion#Blast_resistance): 16
-* [Fuel operations](https://minecraft.gamepedia.com/Furnace/table): 1500
+* [Fuel ticks](https://minecraft.gamepedia.com/Furnace/table): 500
