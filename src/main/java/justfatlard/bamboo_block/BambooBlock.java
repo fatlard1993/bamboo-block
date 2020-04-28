@@ -22,6 +22,6 @@ public class BambooBlock implements ModInitializer {
 		Registry.register(Registry.BLOCK, new Identifier("bamboo-block-justfatlard", "bamboo_block"), BAMBOO_BLOCK);
 		Registry.register(Registry.ITEM, new Identifier("bamboo-block-justfatlard", "bamboo_block"), new BlockItem(BAMBOO_BLOCK, new Item.Settings().group(ItemGroup.DECORATIONS)));
 
-		FuelRegistryImpl.INSTANCE.add(BAMBOO_BLOCK, 1500);
+		FuelRegistryImpl.INSTANCE.add(BAMBOO_BLOCK, 500);
 	}
 }
